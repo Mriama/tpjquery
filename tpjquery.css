@@ -1,0 +1,94 @@
+body {
+    overflow-x: hidden;
+}
+
+.card {
+    width: 600px;
+    margin: 5px;
+}
+
+#c1 {
+    height: 350px;
+}
+
+#c2 {
+    height: 350px;
+}
+
+#c3 {
+    height: 400px;
+}
+
+.container {
+    position: absolute;
+    left: 250px;
+    top: 25px;
+}
+
+#f1 button {
+    margin-left: 100px;
+}
+
+.bt {
+    position: relative;
+    top: 50px;
+}
+
+.tb {
+    position: relative;
+    top: 50px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.foot1 {
+    position: relative;
+    top: 100px;
+}
+
+#conn {
+    position: relative;
+    left: 300px;
+}
+
+#card2 {
+    dislpay: flex;
+    width: 900px;
+}
+
+.pl {
+    position: relative;
+    left: 130px;
+    top: 10px;
+}
+
+.ft1 {
+    position: relative;
+    top: 50px;
+}
+
+
+/* #f1{
+      margin-left:50px;
+      margin-top:20px;
+  }
+  
+  .a{
+    position:absolute;
+    left:400px;
+    top:200px;
+  }
+  #f2{
+    margin-top:100px;
+    margin-left:50px;
+  }
+  */
+
+
+/* #d3{
+      position:relative;
+      left:600px;
+      bottom:400px;
+  } */
